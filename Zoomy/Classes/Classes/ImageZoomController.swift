@@ -1,5 +1,5 @@
 import UIKit
-import InjectableLoggers
+// import InjectableLoggers
 
 public class ImageZoomController: NSObject {
     // MARK: Public Properties
